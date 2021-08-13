@@ -1,3 +1,5 @@
+/*------- TAG SELECTORS -------*/
+
 body{
     background-color: aliceblue;
 }
@@ -5,6 +7,26 @@ h1{
     color: red;
     font-size: 50px;
 }
-img{
+img:hover{                              /* : this colon is used as a pseudo class*/
     background-color: antiquewhite;
+}
+
+/*------- CLASS SELECTORS -------*/
+
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
+
+.circular{
+    border-radius: 50%;
+}
+
+/*------- ID SELECTORS -------*/
+
+#heading{
+    color: blueviolet;
 }

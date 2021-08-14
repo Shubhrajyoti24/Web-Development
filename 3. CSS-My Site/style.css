@@ -1,3 +1,21 @@
 body{
-    background-color: blue;
+    margin: 0;
+}
+
+div{
+    background-color: #E4F9F5;
+}
+
+h1{
+    margin-top: 0;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+}
+.middle-container {
+    background-color: #E4F9F5;
+}
+.bottom-container {
+    background-color: #E4F9F5;
 }

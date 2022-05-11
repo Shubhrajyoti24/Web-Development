@@ -1,13 +1,19 @@
 #title {
     background-color: #ff4c68;
+    color: #fff;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ff4c68;
 }
 
 .container-fluid {
-    padding: 3% 15%;
+    padding: 3% 35%;
 }
 
 h1 {
-    font-family:"Montserrat-Black";
-    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4rem;
     line-height: 1.5;
 }
